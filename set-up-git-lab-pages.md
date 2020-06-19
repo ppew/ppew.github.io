@@ -2,7 +2,7 @@
 
 ## Chuẩn bị
 ## Cài đặt Gitlab
-
+sestatus
 1. Add this line to your Jekyll site’s Gemfile:
 
     ```
